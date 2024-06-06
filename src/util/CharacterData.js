@@ -105,7 +105,7 @@ class CharacterData {
 	};
 
 	static RickSanchez = {
-		id: 'character_c020',
+		id: 'character_C020',
 		displayName: 'Rick Sanchez',
 		aliases: ['Rick'],
 	};
@@ -115,17 +115,47 @@ class CharacterData {
 		displayName: 'Morty',
 		aliases: [],
 	};
-	
+
 	static Gizmo = {
 		id: 'character_C023A',
 		displayName: 'Gizmo',
-		aliases: []
+		aliases: [],
 	};
 
 	static BlackAdam = {
 		id: 'character_C021',
 		displayName: 'Black Adam',
-		aliases: []
+		aliases: [],
+	};
+
+	static Stripe = {
+		id: 'character_C023B',
+		displayName: 'Stripe',
+		aliases: [],
+	};
+
+	static Joker = {
+		id: 'character_C028',
+		displayName: 'The Joker',
+		aliases: [],
+	};
+
+	static BannanaGuard = {
+		id: 'character_BananaGuard',
+		displayName: 'Banana Guard',
+		aliases: [],
+	};
+
+	static Jason = {
+		id: 'character_Jason',
+		displayName: 'Jason',
+		aliases: [],
+	};
+
+	static MarvinTheMartian = {
+		id: 'character_C018',
+		displayName: 'Marvin the Martian',
+		aliases: ['Marvin'],
 	};
 }
 

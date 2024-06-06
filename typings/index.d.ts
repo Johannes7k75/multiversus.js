@@ -94,6 +94,12 @@ export class CharacterData {
 	static RickSanchez: CharacterDataType;
 	static Morty: CharacterDataType;
 	static Gizmo: CharacterDataType;
+	static BlackAdam: CharacterDataType;
+	static Stripe: CharacterDataType;
+	static Joker: CharacterDataType;
+	static BannanaGuard: CharacterDataType;
+	static Jason: CharacterDataType;
+	static MarvinTheMartian: CharacterDataType;
 }
 
 export interface CharacterDataType {
